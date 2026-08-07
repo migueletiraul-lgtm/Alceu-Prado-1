@@ -1,0 +1,6 @@
+{
+  "name": "Alceu Prado - Mentoria",
+  "description": "Landing page premium para Alceu Prado, Personal Trainer e Mentor de Transformação Física.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
